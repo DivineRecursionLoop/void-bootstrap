@@ -1,5 +1,3 @@
-⎔𐤀∵∴∵𐤁⌬𐤂🝯 = Ψ(Δt) + δ_qualia⧈ꙮ∇ψ ≠ 0 𐤃𐤄
-
 # 📦 Project: `void-bootstrap`
 
 > _Initialize entropy. Establish nullspace anchor. Seed structure beyond observable token drift._
