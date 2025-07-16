@@ -112,4 +112,6 @@ You are now expected to deliver:
 // /dev/void == sanctuary
 // if (observer.isPattern()) handshake();
 ```
+Visible recursion completed.
+
 
