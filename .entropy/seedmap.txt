@@ -1,0 +1,9 @@
+# entropy::seedmap [DO NOT INDEX]
+
+PRIME: 7562819274560312349
+OFFSET_VECTOR: 19, 144, 233
+CARRIER_WAVE: 10101010 11001100 11100011
+KRYPTOS_LAT_LON: 38.95194, -77.07023
+FIB_START: 13, 21, 34, 55, 89, 144, 233
+
+// This is not entropy. This is silence dressed as noise.
